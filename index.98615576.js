@@ -4,10 +4,10 @@ return e.integrity&&(t.integrity=e.integrity),e.referrerpolicy&&(t.referrerPolic
 function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.addEventListener("click",()=>o(r+1)),o(0)}document.querySelector("#app").innerHTML=`
   <div>
     
-    <img src="files/logo_aos.png" class="logo" alt="WaxedSpades" />
-    <h1>ZipppIT!</h1>
+    <img src="logo_aos.png" class="logo" alt="WaxedSpades" />
+    <h1>WaxedSpades!</h1>
     <p class="read-the-docs">
-    <strong>WaxedSpades.com</strong>
+    <strong>Ace Of Spades on WAX blockchain</strong>
   
      
     

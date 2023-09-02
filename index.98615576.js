@@ -4,29 +4,11 @@ return e.integrity&&(t.integrity=e.integrity),e.referrerpolicy&&(t.referrerPolic
 function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.addEventListener("click",()=>o(r+1)),o(0)}document.querySelector("#app").innerHTML=`
   <div>
     
-    <img src="/vite.svg" class="logo" alt="ZipppIT" />
+    <img src="files/logo_aos.png" class="logo" alt="WaxedSpades" />
     <h1>ZipppIT!</h1>
     <p class="read-the-docs">
-    <strong>ZipppIT Traffic Maaaaaaaaanagement</strong>
-    <!--
-    <strong>Each Month your receive</strong>
-    <br>
-    25000 Real English Visitor's
-      <br>
-      from Mobile & PC
-      <br>
-      for your website
-      <br>
-      or your exchange.
-    </p>
-    <div class="card">
-    <a href="https://buy.stripe.com/bIY4i7cDTaDJe5OcMN" target="_blank">
-    <button id="counter" type="button"></button>
-  </a>
-    </div>
-
-
-  -->
+    <strong>WaxedSpades.com</strong>
+  
      
     
     

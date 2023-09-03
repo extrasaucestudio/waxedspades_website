@@ -20,7 +20,7 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <strong>Key Features</strong>
 <br>
 "Compatible with Ace of Spades 0.75"<br>
-"Connects to EOS/WAX blockchain, PySpades, and PySnip Servers"<br>
+"Connects to WAX blockchain"<br>
 "Utilizes OpenGL/AL for an Immersive Experience"<br>
 "Open Source and Cross-Platform Compatibility"<br>
 <strong>Our Mission</strong>
@@ -30,7 +30,7 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
         <br><br><hr><br>
         <p class="read-the-docs">
         #1
-        <br><strong>EOS/WAX blockchain</strong><br>
+        <br><strong>WAX blockchain</strong><br>
         <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/extrasaucestudio/waxedspades_server" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>

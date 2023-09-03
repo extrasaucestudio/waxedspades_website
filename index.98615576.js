@@ -26,7 +26,7 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <br>
 At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
 
-</p>
+
 
 
         <br><br><hr><br>
@@ -46,6 +46,7 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
  <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
  &<br>
  <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+ </p>
 </section>
   </div>
 

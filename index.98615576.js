@@ -54,7 +54,7 @@ Enable the purchase, sale, and trading of in-game assets using WAX tokens.<br>
  <a href="https://t.me/tn102021" target="_blank">Telegram</a>
 </p>
 </section>
-<a href="https://extrasaucestudio.com/" target="_blank"><img src="logo-extrasaucestudio.png" width="50" class="logo" alt="ExtraSauceStudio" /></a>
+<a href="https://extrasaucestudio.com/" target="_blank"><img src="logo-extrasaucestudio.png" height="50" class="logo" alt="ExtraSauceStudio" /></a>
 
   </div>
 

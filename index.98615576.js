@@ -6,27 +6,25 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     
     <img src="logo_aos.png" class="logo" alt="WaxedSpades" />
     <h1>WaxedSpades!</h1>
-    <p class="read-the-docs">
-    <strong>Ace Of Spades on WAX blockchain</strong>
-    </p>
   <section id="main" align="center">
   <p class="read-the-docs">
+  <strong>Ace Of Spades on WAX blockchain</strong>
 WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience <br>on different blockchains. Join us in our mission to create a world of endless possibilities.
 <br><br>
 <strong>About WaxedSpades</strong>
 <br>
 Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special <br>focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
-<br>
+<br><br>
 <strong>Key Features</strong>
 <br>
 "Compatible with Ace of Spades 0.75"<br>
 "Connects to WAX blockchain"<br>
 "Utilizes OpenGL/AL for an Immersive Experience"<br>
-"Open Source and Cross-Platform Compatibility"<br>
+"Open Source and Cross-Platform Compatibility"<br><br>
 <strong>Our Mission</strong>
 <br>
 At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. <br>
-Join us as we explore the endless possibilities that blockchain can offer to the gaming world.<br>
+Join us as we explore the endless possibilities that blockchain can offer to the gaming world.<br><br>
 <strong>Blockchain Integration</strong><br>
 Objective: Establish the connection between the FPS game and the WAX blockchain.<br>
 Develop smart contracts to manage in-game assets and transactions on the WAX blockchain.<br>

@@ -27,16 +27,13 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <br>
 At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. <br>Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
  </p>
-
-
-
         <br><br><hr><br>
         <p class="read-the-docs">
         #1
         <br>EOS/WAX blockchain<br>
-        <a href="https://github.com/internetbuilder/waxedspades_client" target="_blank">Repo</a> -
-        <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">Game Contract</a> -
-        <a href="https://wax.bloks.io/account/eosio.token" target="_blank">Token Contract</a>
+        <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/internetbuilder/piqueserver" target="_blank">Repo Server</a><br>
+        <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
+        <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>
         </p>
         <br><br><hr><br>
         <p class="read-the-docs">

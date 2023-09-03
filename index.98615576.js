@@ -31,7 +31,7 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
         <p class="read-the-docs">
         <strong>#1</strong>
         <br>EOS/WAX blockchain<br>
-        <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/internetbuilder/piqueserver" target="_blank">Repo Server</a><br>
+        <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/extrasaucestudio/waxedspades_server" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>
         </p>

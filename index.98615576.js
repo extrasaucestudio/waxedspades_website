@@ -19,5 +19,45 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
       Open source, and cross platform.</td>
     </tr>
   </table>
+  <section id="main" align="center">
+<p>Waxio Team Projects Labs
+        <br><br>
+        Welcome, we are the Waxio team. Passionate but especially web development, we focus our efforts on technologies that can be realized from the WAX/EOS blockchain. Here are our different projects.
+        <br><br>
+        <hr><br>
+        #1
+        <br>FreeCityGame - Platform Multi Game Interacting With Wax NFT Standard Assets.<br>
+        <a href="https://remixworlds.com/" target="_blank">Visit Remixworlds.com!</a><br>
+        <a href="https://github.com/internetbuilder/wax_remixworlds3" target="_blank">Repo</a> -
+        <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">Game Contract</a> -
+        <a href="https://wax.bloks.io/account/remixgamingx" target="_blank">Token Contract</a>
+         <br>
+         Team: <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> & <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+        <br><br><hr><br>
+#2
+<br>WaxAffiliation - Affiliate program between advertiser and pubisher on wax blockchain.<br>
+<a href="https://waxaffiliation.io/" target="_blank">Visit Waxaffiliation.io!</a> <br>
+         Repo - Contract
+         <br>
+         Team: <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> & <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+        <br><br><hr><br>
+        #3
+<br>WaxPOS - Multi merchant POS platform on wax blockchain working with phisical WAX/EOS payment gateway. <br>
+         Repo - <a href="https://wax.bloks.io/account/waxioiopos11" target="_blank">Contract</a>
+         <br>
+         Team: <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> & <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+        <br><br><hr><br>
+        #4
+        <br>Wax Betting - Casino platform based on wax blockchain.  <br>
+        Repo - Contract
+        <br>
+         Team: <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> & <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+                <br><br>
+        <hr>
+        <br>
+ Join the team or Hire Us<br>
+ Contact me on <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a>
+</section>
   </div>
+
 `;s(document.querySelector("#counter"));

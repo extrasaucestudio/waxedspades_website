@@ -29,25 +29,25 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
  </p>
         <br><br><hr><br>
         <p class="read-the-docs">
-        <strong>#1</strong>
-        <br>EOS/WAX blockchain<br>
+        #1
+        <br><strong>EOS/WAX blockchain</strong><br>
         <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/extrasaucestudio/waxedspades_server" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>
         </p>
         <br><br><hr><br>
         <p class="read-the-docs">
-        <strong>#2</strong>
-<br>IOTA blockchain<br>
+        #2
+<br><strong>IOTA blockchain</strong><br>
 <a href="#" target="_blank">Repo</a> -
         <a href="#" target="_blank">Game Contract</a> -
         <a href="#" target="_blank">Token Contract</a>
         </p>
         <br><br><hr><br>
         <p class="read-the-docs">
- <strong>Contact/Join/Hire Us</strong>
+ Contact/Join/Hire Us
  <br>
- Jordan Bourbonnais<br>
+ <strong>Jordan Bourbonnais</strong><br>
  <a href="https://jordanbourbonnais.com/" target="_blank">Full-Stack Developper</a><br>
  <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
  <a href="https://github.com/internetbuilder/" target="_blank">Github internetbuilder</a><br>

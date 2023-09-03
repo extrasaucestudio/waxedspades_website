@@ -8,6 +8,7 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     <h1>WaxedSpades!</h1>
     <p class="read-the-docs">
     <strong>Ace Of Spades on WAX blockchain</strong>
+    <center>
     <table>
     <tr>
       <th>Sandbox building and FPS videogame</th>
@@ -19,6 +20,7 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
       Open source, and cross platform.</td>
     </tr>
   </table>
+  </center>
   <section id="main" align="center">
 <p>Waxio Team Projects Labs
         <br><br>

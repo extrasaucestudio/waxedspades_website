@@ -26,7 +26,12 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <strong>Our Mission</strong>
 <br>
 At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. <br>
-Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
+Join us as we explore the endless possibilities that blockchain can offer to the gaming world.<br><br>
+<strong>Blockchain Integration</strong><br>
+Objective: Establish the connection between the FPS game and the WAX blockchain.<br>
+Develop smart contracts to manage in-game assets and transactions on the WAX blockchain.<br>
+Implement authentication and user account management through the WAX Cloud Wallet.<br>
+Enable the purchase, sale, and trading of in-game assets using WAX tokens.<br>
  
 </p>
         <br><br><hr><br>

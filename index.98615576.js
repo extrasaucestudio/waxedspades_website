@@ -33,7 +33,8 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
   Compete for a spot on the leaderboard and earn special rewards for your performance.
   <br><br>
   <strong>Continuous Development</strong><br>
-  Your initial purchase of the game client supports ongoing game development. Expect regular updates, new maps, and exciting features to keep the gameplay fresh and engaging.
+  Your initial purchase of the game client supports ongoing game development.<br>
+   Expect regular updates, new maps, and exciting features to keep the gameplay fresh and engaging.
   <br><br>
   WaxedSpades combines the thrill of FPS combat with blockchain economics, offering players a dynamic and challenging gaming experience.<br>
   So, gear up, strategize with your team, and dive into the battle for WAX supremacy!

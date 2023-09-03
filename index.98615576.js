@@ -20,7 +20,7 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <strong>Key Features</strong>
 <br>
 "Compatible with Ace of Spades 0.75"<br>
-"Connects to Vanilla, PySpades, and PySnip Servers"<br>
+"Connects to EOS/WAX blockchain, PySpades, and PySnip Servers"<br>
 "Utilizes OpenGL/AL for an Immersive Experience"<br>
 "Open Source and Cross-Platform Compatibility"<br>
 <strong>Our Mission</strong>
@@ -29,7 +29,7 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
  </p>
         <br><br><hr><br>
         <p class="read-the-docs">
-        #1
+        <strong>#1</strong>
         <br>EOS/WAX blockchain<br>
         <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/internetbuilder/piqueserver" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
@@ -37,7 +37,7 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
         </p>
         <br><br><hr><br>
         <p class="read-the-docs">
-#2
+        <strong>#2</strong>
 <br>IOTA blockchain<br>
 <a href="#" target="_blank">Repo</a> -
         <a href="#" target="_blank">Game Contract</a> -
@@ -45,10 +45,16 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
         </p>
         <br><br><hr><br>
         <p class="read-the-docs">
- Contact/Join/Hire Us<br>
- <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
+ <strong>Contact/Join/Hire Us</strong>
+ <br>
+ Jordan Bourbonnais<br>
+ <a href="https://jordanbourbonnais.com/" target="_blank">Full-Stack Developper</a><br>
+ <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
+ <a href="https://github.com/internetbuilder/" target="_blank">Github internetbuilder</a><br>
+ <a href="https://github.com/extrasaucestudio/" target="_blank">Github extrasaucestudio</a><br>
  &<br>
- <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+ <strong>Tien Nguyen</strong><br>
+ <a href="https://t.me/tn102021" target="_blank">Telegram</a>
 </p>
 </section>
   </div>

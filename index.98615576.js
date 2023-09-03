@@ -11,20 +11,15 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
   
     <table>
     <tr>
-      <th>Company</th>
-      <th>Contact</th>
-      <th>Country</th>
+      <th>Sandbox building and FPS videogame</th>
     </tr>
     <tr>
-      <td>Alfreds Futterkiste</td>
-      <td>Maria Anders</td>
-      <td>Germany</td>
+      <td>WaxedSpades is a compatible client of Ace of Spades 0.75.<br>
+      Can connect to a vanilla/pyspades/pysnip server.<br>
+      Uses OpenGL/AL for better experience.<br>
+      Open source, and cross platform.</td>
     </tr>
-    <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Francisco Chang</td>
-      <td>Mexico</td>
-    </tr>
+
   </table>
     
     

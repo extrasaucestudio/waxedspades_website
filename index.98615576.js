@@ -8,7 +8,6 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     <h1>WaxedSpades!</h1>
     <p class="read-the-docs">
     <strong>Ace Of Spades on WAX blockchain</strong>
-  
     <table>
     <tr>
       <th>Sandbox building and FPS videogame</th>
@@ -19,9 +18,6 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
       Uses OpenGL/AL for better experience.<br>
       Open source, and cross platform.</td>
     </tr>
-
   </table>
-    
-    
   </div>
 `;s(document.querySelector("#counter"));

@@ -8,9 +8,9 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     <h1>WaxedSpades!</h1>
     <p class="read-the-docs">
     <strong>Ace Of Spades on WAX blockchain</strong>
+    </p>
   <section id="main" align="center">
   <p class="read-the-docs">
-
 WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience on different blockchains. Join us in our mission to create a world of endless possibilities.
 <br><br>
 <strong>About WaxedSpades</strong>
@@ -27,10 +27,11 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <br>
 At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
 
-</p>
+
 
 
         <br><br><hr><br>
+        
         #1
         <br>EOS/WAX blockchain<br>
         <a href="https://github.com/internetbuilder/waxedspades_client" target="_blank">Repo</a> -
@@ -47,6 +48,7 @@ At WaxedSpades, we are on a mission to leverage blockchain technology to create 
  <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
  &<br>
  <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
+ </p>
 </section>
   </div>
 

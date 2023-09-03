@@ -25,8 +25,10 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 "Open Source and Cross-Platform Compatibility"<br>
 <strong>Our Mission</strong>
 <br>
-At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. <br>Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
- </p>
+At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. <br>
+Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
+ 
+</p>
         <br><br><hr><br>
         <p class="read-the-docs">
         #1

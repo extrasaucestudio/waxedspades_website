@@ -9,7 +9,8 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
   <section id="main" align="center">
   <p class="read-the-docs">
   <strong>Ace Of Spades on WAX blockchain</strong>
-WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience <br>on different blockchains. Join us in our mission to create a world of endless possibilities.
+WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience <br>
+on the WAX blockchain. Join us in our mission to create a world of endless possibilities.
 <br><br>
 <strong>About WaxedSpades</strong>
 <br>
@@ -34,19 +35,10 @@ Enable the purchase, sale, and trading of in-game assets using WAX tokens.<br>
 </p>
         <br><br><hr><br>
         <p class="read-the-docs">
-        #1
         <br><strong>WAX blockchain</strong><br>
         <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/extrasaucestudio/waxedspades_server" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>
-        </p>
-        <br><br><hr><br>
-        <p class="read-the-docs">
-        #2
-<br><strong>IOTA blockchain</strong><br>
-<a href="#" target="_blank">Repo</a> -
-        <a href="#" target="_blank">Game Contract</a> -
-        <a href="#" target="_blank">Token Contract</a>
         </p>
         <br><br><hr><br>
         <p class="read-the-docs">

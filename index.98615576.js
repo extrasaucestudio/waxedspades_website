@@ -9,7 +9,7 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     <p class="read-the-docs">
     <strong>Ace Of Spades on WAX blockchain</strong>
     <center>
-    <table>
+    <table align="center">
     <tr>
       <th>Sandbox building and FPS videogame</th>
     </tr>

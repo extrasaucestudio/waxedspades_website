@@ -16,6 +16,7 @@ WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gami
 <strong>About WaxedSpades</strong>
 <br>
 Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
+<br>
 <strong>Key Features</strong>
 <br>
 "Compatible with Ace of Spades 0.75"<br>

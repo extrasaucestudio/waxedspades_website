@@ -22,9 +22,7 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
   </table>
   </center>
   <section id="main" align="center">
-<p>Waxio Team Projects Labs
-        <br><br>
-        Welcome, we are the WaxedSpades team. Passionate but especially web development, <br>we focus our efforts on technologies that can be realized from the diferents blockchain.
+<p>Welcome, we are the WaxedSpades team. Passionate but especially web development, <br>we focus our efforts on technologies that can be realized from the differents blockchain.
         <br><br>
         <hr><br>
         #1

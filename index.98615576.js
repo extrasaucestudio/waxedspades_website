@@ -11,11 +11,11 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     </p>
   <section id="main" align="center">
   <p class="read-the-docs">
-WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience on different blockchains. Join us in our mission to create a world of endless possibilities.
+WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience <br>on different blockchains. Join us in our mission to create a world of endless possibilities.
 <br><br>
 <strong>About WaxedSpades</strong>
 <br>
-Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
+Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special <br>focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
 <br>
 <strong>Key Features</strong>
 <br>
@@ -25,7 +25,7 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 "Open Source and Cross-Platform Compatibility"<br>
 <strong>Our Mission</strong>
 <br>
-At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
+At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. <br>Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
  </p>
 
 

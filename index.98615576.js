@@ -8,13 +8,45 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     <h1>WaxedSpades!</h1>
   <section id="main" align="center">
   <p class="read-the-docs">
-  <strong>Ace Of Spades on WAX blockchain</strong>
-WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience <br>
-on the WAX blockchain. Join us in our mission to create a world of endless possibilities.
-<br><br>
+  <strong>Ace Of Spades on WAX blockchain</strong><br>
+  WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience <br>
+  on the WAX blockchain. Join us in our mission to create a world of endless possibilities.
+  <br><br>
+  <strong>Game Rules</strong><br>
+  Welcome to WaxedSpades, where intense 32 versus 32 player battles unfold in a continuous Team Death Match Build and Shoot experience.<br>
+  Here are the rules and mechanics that make this game exciting and competitive.
+  <br><br>
+  <strong>Initial Purchase</strong><br>
+  To join the game, players must purchase the game client for 100 WAX through a WAX NFT. <br>
+  This NFT serves as your entry ticket to the world of WaxedSpades and supports ongoing game development.
+  <br><br>
+  <strong>Free Entry with a Twist</strong><br>
+  Once you've acquired the game client, you can enter the game for free. However, there's a catch.<br>
+  Every time your character is eliminated (respawned), you'll need to pay 1 WAX as a respawn fee.<br>
+  This adds an element of strategy and risk to the game.
+  <br><br>
+  <strong>Earnings through Eliminations</strong><br>
+  Here's the exciting part - every time you eliminate an opponent, you earn 1 WAX. <br>
+  It's not just about survival; it's about taking down your enemies to bolster your WAX balance.
+  <br><br>
+  <strong>Team-Based Warfare</strong><br>
+  The game is divided into two teams, each consisting of 32 players. Team coordination and <br>
+  strategy are key to victory. Work together to outsmart the opposing team.
+  <br><br>
+  <strong>Leaderboard and Rewards</strong><br>
+  WaxedSpades keeps track of your eliminations, deaths, and WAX earnings. <br>
+  Compete for a spot on the leaderboard and earn special rewards for your performance.
+  <br><br>
+  <strong>Continuous Development</strong><br>
+  Your initial purchase of the game client supports ongoing game development. Expect regular updates, new maps, and exciting features to keep the gameplay fresh and engaging.
+  <br><br>
+  WaxedSpades combines the thrill of FPS combat with blockchain economics, offering players a dynamic and challenging gaming experience.<br>
+  So, gear up, strategize with your team, and dive into the battle for WAX supremacy!
+  <br><br>
 <strong>About WaxedSpades</strong>
 <br>
-Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special <br>focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
+Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special <br>
+focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
 <br><br>
 <strong>Key Features</strong>
 <br>
@@ -31,6 +63,9 @@ Establish the connection between the FPS game and the WAX blockchain.<br>
 Develop smart contracts to manage in-game assets and transactions on the WAX blockchain.<br>
 Implement authentication and user account management through the WAX Cloud Wallet.<br>
 Enable the purchase, sale, and trading of in-game assets using WAX tokens.<br>
+
+
+
  
 </p>
         <br><br><hr><br>

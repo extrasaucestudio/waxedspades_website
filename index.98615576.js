@@ -8,23 +8,28 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
     <h1>WaxedSpades!</h1>
     <p class="read-the-docs">
     <strong>Ace Of Spades on WAX blockchain</strong>
-    <center>
-    <table align="center">
-    <tr>
-      <th>Sandbox building and FPS videogame</th>
-    </tr>
-    <tr>
-      <td>WaxedSpades is a compatible client of Ace of Spades 0.75.<br>
-      Can connect to a vanilla/pyspades/pysnip server.<br>
-      Uses OpenGL/AL for better experience.<br>
-      Open source, and cross platform.</td>
-    </tr>
-  </table>
-  </center>
   <section id="main" align="center">
-<p>Welcome, we are the WaxedSpades team. Passionate but especially web development, <br>we focus our efforts on technologies that can be realized from the differents blockchain.
-        <br><br>
-        <hr><br>
+  <p class="read-the-docs">
+
+WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience on the WAX blockchain. Join us in our mission to create a world of endless possibilities.
+<br><br>
+<strong>About WaxedSpades</strong>
+<br>
+Welcome to the world of WaxedSpades! We are a passionate team of web developers with a special focus on blockchain technologies. Our goal is to bring the magic of Ace of Spades to the blockchain community.
+<strong>Key Features</strong>
+<br>
+"Compatible with Ace of Spades 0.75"<br>
+"Connects to Vanilla, PySpades, and PySnip Servers"<br>
+"Utilizes OpenGL/AL for an Immersive Experience"<br>
+"Open Source and Cross-Platform Compatibility"<br>
+<strong>Our Mission</strong>
+<br>
+At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
+
+</p>
+
+
+        <br><br><hr><br>
         #1
         <br>EOS/WAX blockchain<br>
         <a href="https://github.com/internetbuilder/waxedspades_client" target="_blank">Repo</a> -

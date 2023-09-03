@@ -11,7 +11,7 @@ function s(n){let r=0;const o=i=>{r=i,n.innerHTML=`Subscribe for 5$/month`};n.ad
   <section id="main" align="center">
   <p class="read-the-docs">
 
-WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience on the WAX blockchain. Join us in our mission to create a world of endless possibilities.
+WaxedSpades is a compatible client of Ace of Spades 0.75, offering a unique gaming experience on different blockchains. Join us in our mission to create a world of endless possibilities.
 <br><br>
 <strong>About WaxedSpades</strong>
 <br>

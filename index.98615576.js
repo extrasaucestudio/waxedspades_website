@@ -26,29 +26,33 @@ Welcome to the world of WaxedSpades! We are a passionate team of web developers 
 <strong>Our Mission</strong>
 <br>
 At WaxedSpades, we are on a mission to leverage blockchain technology to create innovative gaming experiences. Join us as we explore the endless possibilities that blockchain can offer to the gaming world.
-
+ </p>
 
 
 
         <br><br><hr><br>
-        
+        <p class="read-the-docs">
         #1
         <br>EOS/WAX blockchain<br>
         <a href="https://github.com/internetbuilder/waxedspades_client" target="_blank">Repo</a> -
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">Token Contract</a>
+        </p>
         <br><br><hr><br>
+        <p class="read-the-docs">
 #2
 <br>IOTA blockchain<br>
 <a href="#" target="_blank">Repo</a> -
         <a href="#" target="_blank">Game Contract</a> -
         <a href="#" target="_blank">Token Contract</a>
+        </p>
         <br><br><hr><br>
+        <p class="read-the-docs">
  Contact/Join/Hire Us<br>
  <a href="https://jordanbourbonnais.com/" target="_blank">Jordan Bourbonnais</a> <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
  &<br>
  <a href="https://t.me/tn102021" target="_blank">Tien Nguyen</a>
- </p>
+</p>
 </section>
   </div>
 

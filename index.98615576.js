@@ -55,16 +55,12 @@ focus on blockchain technologies. Our goal is to bring the magic of Ace of Spade
 Our mission is to leverage blockchain technology to create innovative gaming experiences. <br>
 Join us as we explore the endless possibilities that blockchain can offer to the gaming world.<br>
  
-</p>
-        
-        <p class="read-the-docs">
+
         <br><strong>WAX blockchain</strong><br>
         <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/extrasaucestudio/waxedspades_server" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>
-        </p>
-        
-        <p class="read-the-docs">
+        <br>  
  Contact/Join/Hire Us
  <br>
  <strong>Jordan Bourbonnais</strong><br>

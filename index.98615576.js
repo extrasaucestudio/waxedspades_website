@@ -60,9 +60,9 @@ Join us as we explore the endless possibilities that blockchain can offer to the
         <a href="https://github.com/extrasaucestudio/waxedspades_client" target="_blank">Repo Client</a> - <a href="https://github.com/extrasaucestudio/waxedspades_server" target="_blank">Repo Server</a><br>
         <a href="https://wax.bloks.io/account/freecitygamx" target="_blank">WAX Game Contract</a> -
         <a href="https://wax.bloks.io/account/eosio.token" target="_blank">WAX Token Contract</a>
-        <br>  
+        <br><br>  
  Contact/Join/Hire Us
- <br><br>
+ <br>
  <strong>Jordan Bourbonnais</strong><br>
  <a href="https://jordanbourbonnais.com/" target="_blank">Full-Stack Developper</a><br>
  <a href="https://www.facebook.com/messages/t/jordanbourbonnais" target="_blank">Messenger</a><br>
